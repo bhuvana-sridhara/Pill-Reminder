@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="16dp"
+    android:layout_margin="16dp"
+
+    >
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/name"
+            android:text="Name"
+            android:textColor="#000"
+            android:textSize="30sp"
+            android:layout_margin="4dp"
+            />
+<!--            android:textAlignment="center"-->
+<!--            android:gravity="center_horizontal" />-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/purpose"
+            android:text="Purpose"
+            android:textSize="14sp"
+            android:textColor="#000"
+            android:layout_margin="4dp"
+            />
+<!--            android:textAlignment="center"-->
+<!--            android:gravity="center_horizontal"-->
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/dosage"
+            android:text="Dosage"
+            android:textSize="14sp"
+            android:textColor="#000"
+            android:layout_margin="4dp"
+            />
+<!--            android:textAlignment="center"-->
+<!--            android:gravity="center_horizontal"-->
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/nop"
+            android:text="Number of Pills"
+            android:textSize="14sp"
+            android:textColor="#000"
+            android:layout_margin="4dp"
+            />
+
+<!--            android:textAlignment="center"-->
+<!--            android:gravity="center_horizontal"-->
+
+
+<!--            android:textAlignment="center"-->
+<!--            android:gravity="center_horizontal"-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/time"
+            android:text="Time"
+            android:textSize="14sp"
+            android:textColor="#000"
+            android:layout_margin="4dp"
+            />
+<!--            android:textAlignment="center"-->
+<!--            android:gravity="center_horizontal"-->
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

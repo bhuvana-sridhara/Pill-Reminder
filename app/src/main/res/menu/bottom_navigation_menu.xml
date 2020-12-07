@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:enabled="true"
+        android:icon="@drawable/home_button"
+        android:title="@string/Home"/>
+
+    <item
+        android:id="@+id/add"
+        android:enabled="true"
+        android:icon="@drawable/alarm"
+        android:title="@string/Add"/>
+    <item
+        android:id="@+id/edit"
+        android:enabled="true"
+        android:icon="@drawable/edit"
+        android:title="@string/Edit"/>
+
+    <item
+        android:id="@+id/notification"
+        android:enabled="true"
+        android:icon="@drawable/bell"
+        android:title="@string/notification"/>
+
+    <item
+        android:id="@+id/setting"
+        android:enabled="true"
+        android:icon="@drawable/setting"
+        android:title="@string/setting"/>
+</menu>

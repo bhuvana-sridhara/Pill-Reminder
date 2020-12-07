@@ -1,0 +1,45 @@
+<resources >
+    <string name="app_name">Piller</string>
+    <string name="Add">Add</string>
+    <string name="Home">Home</string>
+    <string name="Edit">Edit</string>
+    <string name="notification">Notifications</string>
+    <string name="page_title">Piller</string>
+    <string name="setting">Settings</string>
+    <string name="message">Message</string>
+    <string name="account">Account</string>
+
+
+    <string name="add_medication">Add medication</string>
+
+    <string name="form_name_of_med">Enter name of medication</string>
+    <string name="form_name_of_med_input">Example: Advil</string>
+    <string name="form_name_of_med_submit">Proceed to purpose</string>
+
+    <string name="form_purpose_of_med">Why do you take "Medicine name"</string>
+    <string name="form_purpose_of_med_input">Ex: Diabetes</string>
+    <string name="form_purpose_of_med_submit">Proceed to dosage</string>
+
+    <string name="form_dosage_of_med">Enter dosage of </string>
+    <string name="form_dosage_of_med_input">Ex: 500 mg</string>
+    <string name="form_dosage_of_med_submit">Proceed to schedule</string>'
+
+    <string name="form_schedule_of_med">When do you take </string>
+    <string name="form_schedule_of_med_input"></string>
+    <string name="form_schedule_of_med_submit">Review and save!</string>
+
+    <string name="mr_pillar_head_1">Hi!!  \n  I can help you contact \n your caretaker!</string>
+    <string name="mr_pillar_head_2">Add / Update Medicines</string>
+    <string name="mr_pillar_head_3">Ran out of meds</string>
+    <string name="mr_pillar_head_4">Others</string>
+    <string name="mr_pillar_add_update_head_1">You forgot to \n add the \n morning \n syrup!</string>
+    <string name="mr_pillar_add_update_head_2">I want to \n  decrease the \n  dosage of \n Insulin!</string>
+    <string name="mr_pillar_add_update_head_3">Doctor asked \n  not to take \n crocin!</string>
+    <string name="mr_pillar_add_update_head_4">Msg</string>
+
+    <string name="tab1">\n 9 AM \n Paracetamol \n 600 mg / 1 tablet</string>
+    <string name="tab3">\n 4 PM \n Crocin \n 500 mg / 3 tablet</string>
+
+    <string name="tab2">\n 10:09 AM \n Insulin \n 100 ml / 1 injection</string>
+
+</resources>
